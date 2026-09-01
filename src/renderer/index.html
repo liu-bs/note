@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NoteMark</title>
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self'; font-src 'self'"
+    />
+  </head>
+
+  <body>
+    <div id="root">
+      <!-- 启动加载态：在 React 挂载前消除白屏 -->
+      <div
+        id="boot-splash"
+        style="
+          display: flex;
+          height: 100vh;
+          align-items: center;
+          justify-content: center;
+          background: #ffffff;
+        "
+      >
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 16px">
+          <div
+            style="
+              width: 24px;
+              height: 24px;
+              border: 2px solid #d2d2d7;
+              border-top-color: #1d1d1f;
+              border-radius: 50%;
+              animation: boot-spin 0.8s linear infinite;
+            "
+          ></div>
+          <span
+            style="
+              font-size: 12px;
+              color: #86868b;
+              font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+              letter-spacing: -0.003em;
+              font-weight: 400;
+            "
+            >NoteMark</span
+          >
+        </div>
+      </div>
+      <style>
+        @keyframes boot-spin {
+          to {
+            transform: rotate(360deg);
+          }
+        }
+        @media (prefers-color-scheme: dark) {
+          #boot-splash {
+            background: #000000 !important;
+          }
+          #boot-splash span {
+            color: #98989d !important;
+          }
+          #boot-splash div > div {
+            border-color: #48484a !important;
+            border-top-color: #f5f5f7 !important;
+          }
+        }
+      </style>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
