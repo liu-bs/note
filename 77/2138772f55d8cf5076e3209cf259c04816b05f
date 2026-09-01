@@ -1,0 +1,20 @@
+package.json
+  s_1b32bcfd493da4::t_a037b13285b7f2 25
+  s_1b32bcfd493da4::t_8059b472e53e01 31,49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "772138772f55d8cf5076e3209cf259c04816b05f",
+  "prompts": {},
+  "sessions": {
+    "s_1b32bcfd493da4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "61bbd27c-03bd-4fd6-82c7-ed5dec6d3103",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
