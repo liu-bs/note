@@ -1,0 +1,33 @@
+src/renderer/src/index.css
+  h_7a7e6c68a7d90b 11-16
+src/main/index.ts
+  h_7a7e6c68a7d90b 13-19
+src/renderer/src/components/AppLayout.tsx
+  s_c6ebce52ca8018::t_5cd40b4f4553f2 1,16-20
+  h_7a7e6c68a7d90b 2-15,21-53
+src/renderer/src/App.tsx
+  h_7a7e6c68a7d90b 1-10,12-13
+src/renderer/src/components/DraggableTopBar.tsx
+  h_7a7e6c68a7d90b 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "dedfa412fb528e1fabc9c52a5c5c1dd0afe56b48",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_c6ebce52ca8018": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52693712-abbe-4996-a932-a323c57d586f",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
