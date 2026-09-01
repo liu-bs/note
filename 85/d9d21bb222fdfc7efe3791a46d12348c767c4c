@@ -1,0 +1,16 @@
+src/preload/index.d.ts
+  h_7a7e6c68a7d90b 3-4
+src/preload/index.ts
+  h_7a7e6c68a7d90b 4-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "85d9d21bb222fdfc7efe3791a46d12348c767c4c",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
