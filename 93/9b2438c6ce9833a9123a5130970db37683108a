@@ -1,0 +1,19 @@
+src/preload/index.d.ts
+  s_f5aa82351fc7b7::t_353417f62ca71f 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "939b2438c6ce9833a9123a5130970db37683108a",
+  "prompts": {},
+  "sessions": {
+    "s_f5aa82351fc7b7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc497846-d617-4aac-a62d-8763edea701c",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
