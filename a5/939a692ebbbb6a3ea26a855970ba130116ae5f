@@ -1,0 +1,28 @@
+tsconfig.node.json
+  s_f5aa82351fc7b7::t_12330c26840d56 6-11
+shared/index.ts
+  h_7a7e6c68a7d90b 1
+electron.vite.config.ts
+  s_f5aa82351fc7b7::t_9786d51bfeebc4 6-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a5939a692ebbbb6a3ea26a855970ba130116ae5f",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_f5aa82351fc7b7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc497846-d617-4aac-a62d-8763edea701c",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
