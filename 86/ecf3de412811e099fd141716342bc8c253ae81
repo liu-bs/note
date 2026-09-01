@@ -1,0 +1,14 @@
+src/renderer/src/main.tsx
+  h_7a7e6c68a7d90b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "86ecf3de412811e099fd141716342bc8c253ae81",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
