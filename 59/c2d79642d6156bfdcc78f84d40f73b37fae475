@@ -1,0 +1,19 @@
+package.json
+  s_1b32bcfd493da4::t_eec40ea71d3c98 1-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "59c2d79642d6156bfdcc78f84d40f73b37fae475",
+  "prompts": {},
+  "sessions": {
+    "s_1b32bcfd493da4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "61bbd27c-03bd-4fd6-82c7-ed5dec6d3103",
+        "model": "unknown"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
