@@ -1,0 +1,29 @@
+src/main/lib/index.ts
+  h_7a7e6c68a7d90b 2-3,7-16
+  s_a9468b96d1f0bc::t_c19066dfec12c8 5
+src/shared/constant.ts
+  h_7a7e6c68a7d90b 2
+tsconfig.node.json
+  s_a9468b96d1f0bc::t_9bf8e2d375d09b 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4331c7d1aefd2667d6499e421a60a054c9794fe4",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_a9468b96d1f0bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "595d614a-3c32-4754-a321-78a958bb68a3",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
