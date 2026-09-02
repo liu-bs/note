@@ -1,0 +1,18 @@
+package.json
+  h_7a7e6c68a7d90b 25,45,53
+src/renderer/src/hooks/useNotesList.ts
+  h_7a7e6c68a7d90b 1-18
+src/renderer/src/store/index.ts
+  h_7a7e6c68a7d90b 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b5e30ce9b88de8627ce26a577b48ea5c8d39bba6",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
