@@ -1,0 +1,25 @@
+src/main/lib/index.ts
+  s_a9468b96d1f0bc::t_7df1774d2742f0 4-5,10-12
+  h_7a7e6c68a7d90b 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4c4843a3cf482fc82d7c1f811f0f643ea5cdbc25",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_a9468b96d1f0bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "595d614a-3c32-4754-a321-78a958bb68a3",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
