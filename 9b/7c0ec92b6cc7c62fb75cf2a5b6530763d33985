@@ -1,0 +1,18 @@
+src/renderer/src/components/NoteList.tsx
+  h_7a7e6c68a7d90b 6-7
+src/renderer/src/App.tsx
+  h_7a7e6c68a7d90b 11,14-18,25,27
+src/renderer/src/hooks/useNotesList.ts
+  h_7a7e6c68a7d90b 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9b7c0ec92b6cc7c62fb75cf2a5b6530763d33985",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
