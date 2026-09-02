@@ -1,0 +1,20 @@
+src/renderer/src/components/ActionButtonRow.tsx
+  h_7a7e6c68a7d90b 2-3,7-8,11-12
+src/renderer/src/store/index.ts
+  h_7a7e6c68a7d90b 20-42
+src/renderer/src/components/MarkdownEditor.tsx
+  h_7a7e6c68a7d90b 203
+src/renderer/src/components/NoteListItem.tsx
+  h_7a7e6c68a7d90b 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "fd0e18fb3779588fbd4107d8aebd8ff13b631ccd",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
