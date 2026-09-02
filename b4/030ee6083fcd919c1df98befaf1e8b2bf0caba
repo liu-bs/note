@@ -1,0 +1,31 @@
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_a9468b96d1f0bc::t_cf6dad8ae46214 6-11
+src/renderer/src/components/ActionButtonRow.tsx
+  s_a9468b96d1f0bc::t_52374245e945e0 4,6-10
+src/renderer/src/store/index.ts
+  h_7a7e6c68a7d90b 32
+  s_a9468b96d1f0bc::t_44d50c6f632f3f 4,9-11,27,34
+src/renderer/src/components/DraggableTopBar.tsx
+  s_a9468b96d1f0bc::t_ee15eab2e30974 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b4030ee6083fcd919c1df98befaf1e8b2bf0caba",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_a9468b96d1f0bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "595d614a-3c32-4754-a321-78a958bb68a3",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
