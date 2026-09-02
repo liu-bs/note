@@ -1,0 +1,27 @@
+src/renderer/src/components/MarkdownEditor.tsx
+  s_a9468b96d1f0bc::t_5ad42c5ff889b4 58
+  s_a9468b96d1f0bc::t_63954f91898aa6 192-198
+src/renderer/src/hooks/useMarkdownEditor.ts
+  s_a9468b96d1f0bc::t_6c4ccfbceff040 2,5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f3c19fee0dd6aa49af7a6ed2903b508596f6437a",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_a9468b96d1f0bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "595d614a-3c32-4754-a321-78a958bb68a3",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
