@@ -1,0 +1,36 @@
+src/renderer/src/components/FloatingNoteTitle.tsx
+  h_7a7e6c68a7d90b 1-2,7-8,11
+src/renderer/src/components/NoteListItem.tsx
+  h_7a7e6c68a7d90b 1-34
+src/renderer/src/App.tsx
+  h_7a7e6c68a7d90b 8,20
+src/renderer/src/components/index.ts
+  h_7a7e6c68a7d90b 1,4,6-8
+src/renderer/src/hooks/useNotesList.ts
+  s_a9468b96d1f0bc::t_b31693f74754f1 2,5-15,19
+src/renderer/src/store/index.ts
+  h_7a7e6c68a7d90b 11
+src/renderer/src/components/NoteList.tsx
+  h_7a7e6c68a7d90b 1-2,6-8,17-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "17e6d073af1c11b0326b2240c2862696e09b33bf",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_a9468b96d1f0bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "595d614a-3c32-4754-a321-78a958bb68a3",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
