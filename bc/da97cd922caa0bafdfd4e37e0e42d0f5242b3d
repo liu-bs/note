@@ -1,0 +1,14 @@
+package.json
+  h_7a7e6c68a7d90b 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "bcda97cd922caa0bafdfd4e37e0e42d0f5242b3d",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
