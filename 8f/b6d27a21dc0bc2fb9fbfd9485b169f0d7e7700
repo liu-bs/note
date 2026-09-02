@@ -1,0 +1,24 @@
+src/renderer/src/components/NotePreviewList.tsx
+  h_7a7e6c68a7d90b 4,6-13,15
+src/renderer/src/index.css
+  h_7a7e6c68a7d90b 2,18-26
+src/renderer/src/components/MarkdownEditor.tsx
+  h_7a7e6c68a7d90b 1-26
+src/renderer/src/App.tsx
+  h_7a7e6c68a7d90b 6,22-23
+src/renderer/src/components/index.ts
+  h_7a7e6c68a7d90b 7-8
+src/renderer/src/utils/index.ts
+  h_7a7e6c68a7d90b 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8fb6d27a21dc0bc2fb9fbfd9485b169f0d7e7700",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
