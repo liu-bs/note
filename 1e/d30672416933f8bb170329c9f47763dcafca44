@@ -1,0 +1,87 @@
+src/renderer/src/hooks/useMarkdownEditor.ts
+  s_59deeb404a035a::t_1ca35694efc169 1-4,9-14,16,18,20,23-25
+src/preload/index.ts
+  s_59deeb404a035a::t_f922712d2dd48d 1-4,14,16,20,22,24,26,29,31,33,36,38
+src/shared/types.ts
+  s_59deeb404a035a::t_ca23ec851e5a49 1-2,4-6,9
+  s_59deeb404a035a::t_c88694bebb89f2 3,7-8,11,13
+src/renderer/src/types/store.ts
+  s_59deeb404a035a::t_bf22b327b4d035 1-5,8-11,13,15,17,19,22,24,26,28,30,32,34,36,38
+src/renderer/src/types/editor.ts
+  s_59deeb404a035a::t_2ebfc558601dbd 1-6,9-12,14,16,18,20,22,24,26,28,32
+src/renderer/src/App.tsx
+  s_59deeb404a035a::t_31ba84bbc7a10c 1-4,18-22,24,26-27,30-33,39,42,47
+src/renderer/src/types/components.ts
+  s_59deeb404a035a::t_c5d3972fde2835 1-5,9,12,14,16,18,22,24,28,31
+src/renderer/src/components/ActionButtonRow.tsx
+  s_59deeb404a035a::t_d5211478f951f7 1-4,10-16,18,20,25,27
+src/renderer/src/components/index.ts
+  s_59deeb404a035a::t_37f50cd7495777 1-4
+src/renderer/src/components/NoteListItem.tsx
+  s_59deeb404a035a::t_3fbba470e1a7a2 1-4,8-18,21-23,41
+src/renderer/src/utils/index.ts
+  s_59deeb404a035a::t_4a3e3580649820 1-5,8-16,18-19,25-32
+src/renderer/src/components/Button/DeleteNoteButton.tsx
+  s_59deeb404a035a::t_bdc8a1902f0405 1-4,10-16,20
+src/main/lib/index.ts
+  s_59deeb404a035a::t_60947f70de8b48 3
+  s_59deeb404a035a::t_d10aabf789cc6e 1-2,4,12-17,22-27,34-38,41-47,49,52,54,57,72-78,80,89-96,98,104-110,112,115,122-129,131,138-145,147,149
+  s_59deeb404a035a::t_c668426da45bc9 155-199
+  s_59deeb404a035a::t_b9bf7e662f53fa 7
+  s_59deeb404a035a::t_701af1bb5af384 6
+src/renderer/src/types/index.ts
+  s_59deeb404a035a::t_6835f50db56f9e 1-5
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_59deeb404a035a::t_779b658471e7b5 1-4,10-16,19,21,23,25,27,32-35,45-48,57-60,94
+  s_59deeb404a035a::t_0f1c137eafb9ee 68,81
+src/renderer/src/types/note.ts
+  s_59deeb404a035a::t_0aaf617fe78aec 1-5,10-17
+src/renderer/src/types/hooks.ts
+  s_59deeb404a035a::t_aa7311f5e1291a 1-5,8-10,12,16-18,20,22,24
+src/renderer/src/main.tsx
+  s_59deeb404a035a::t_1e046b85cf3a2b 1-4,11-14
+src/main/index.ts
+  s_59deeb404a035a::t_3dc2d92bc47649 29-34,37
+  s_59deeb404a035a::t_86c7734121019a 1-4,12-15
+  s_59deeb404a035a::t_d665dfe4f40b58 5-6,25-26
+src/renderer/src/components/DraggableTopBar.tsx
+  s_59deeb404a035a::t_023d1f92978dc2 1-4,7-11
+src/renderer/src/store/index.ts
+  s_59deeb404a035a::t_3f297dad92b248 1-5,9-14,22-28,30,32,34,36,39,41,43,46-50,72-76,96-100,114-119,140-147,153-160
+src/renderer/src/components/Button/index.ts
+  s_59deeb404a035a::t_d7795ce1eecf6a 1-4
+src/renderer/src/components/AppLayout.tsx
+  s_59deeb404a035a::t_94476a5a6b60b8 1-4,8-15,28-35,50-59,69
+src/shared/constant.ts
+  s_59deeb404a035a::t_986b6f9bf53cf1 1-6,8-9,12-15,17,19,21,23,25,27,29,31
+src/renderer/src/components/NoteList.tsx
+  s_59deeb404a035a::t_93747fa92e5312 1-4,11-18,20,44
+src/renderer/src/components/Button/ActionButton.tsx
+  s_59deeb404a035a::t_211c883bf2ed45 1-4,9-17,31
+src/renderer/src/components/Button/NewNoteButton.tsx
+  s_59deeb404a035a::t_ac2127e7413936 1-4,10-16,20
+src/renderer/src/env.d.ts
+  s_59deeb404a035a::t_879dd1baaf6744 1-4
+src/renderer/src/hooks/useNotesList.ts
+  s_59deeb404a035a::t_7978b889c2075d 1-4,9-15,17,19,21,23,26-28,37-40
+src/preload/index.d.ts
+  s_59deeb404a035a::t_f6f18ee223fd9f 1-4,11,13,16,18,20,22,24,26,28,30,32
+src/renderer/src/components/MarkdownEditor.tsx
+  s_59deeb404a035a::t_318a114563526b 1-4,13,15,18-21,51,53,56-63,76,87,89,97,105,117,120-126,138,141-145,147,149,151,153,155,157,159,161,163,166,168,170,172,174,177,181,186,188,194-197,206-209,218-221,245-248,261-265,340-344,377,380-383,414,428,430,432,434,443,471
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1ed30672416933f8bb170329c9f47763dcafca44",
+  "prompts": {},
+  "sessions": {
+    "s_59deeb404a035a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f939bc-f6d0-4999-b839-e9dbff140d9e",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
