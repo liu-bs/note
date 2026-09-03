@@ -1,0 +1,42 @@
+src/renderer/src/index.css
+  s_59deeb404a035a::t_37ade53606bd72 10-12,27
+src/renderer/src/styles/editor.css
+  s_59deeb404a035a::t_bb1adff9d0ce55 1-33,39,47,55-56,59-60,72,80,97,102,105,108,111,128,132-133,139,144,147,160,165
+src/renderer/src/components/ErrorBoundary.tsx
+  s_59deeb404a035a::t_278a8add58aeb4 47,49,54
+src/renderer/src/components/MarkdownEditor.tsx
+  s_59deeb404a035a::t_8b026719ecfa3e 112
+  s_59deeb404a035a::t_6b7742ef906f95 124
+src/renderer/src/components/Button/NewNoteButton.tsx
+  s_59deeb404a035a::t_20120bfbe119cf 21
+src/renderer/src/components/AppLayout.tsx
+  s_59deeb404a035a::t_ba4c0821256efc 43-46
+src/renderer/src/components/Toolbar.tsx
+  s_59deeb404a035a::t_3c612d070355b3 61
+src/renderer/src/App.tsx
+  s_59deeb404a035a::t_ba4c0821256efc 48-51
+src/renderer/src/components/NoteListItem.tsx
+  s_59deeb404a035a::t_bb02d5b077fe14 29-30
+src/renderer/src/components/Button/ActionButton.tsx
+  s_59deeb404a035a::t_7f454fa1cbed51 27
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_59deeb404a035a::t_8a34daab5e0794 87
+src/renderer/src/components/Button/DeleteNoteButton.tsx
+  s_59deeb404a035a::t_44d33a2c6f5732 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "50f4cdadca04753d8f797cb94f2dec216c39ed44",
+  "prompts": {},
+  "sessions": {
+    "s_59deeb404a035a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f939bc-f6d0-4999-b839-e9dbff140d9e",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
