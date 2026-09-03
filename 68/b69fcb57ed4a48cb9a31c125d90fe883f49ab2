@@ -1,0 +1,22 @@
+package.json
+  s_2cb9240b491962::t_18f73f2e384d67 25
+  s_2cb9240b491962::t_79fac44b09b1de 56-57
+pnpm-lock.yaml
+  s_2cb9240b491962::t_c23d83d9000c19 105-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "68b69fcb57ed4a48cb9a31c125d90fe883f49ab2",
+  "prompts": {},
+  "sessions": {
+    "s_2cb9240b491962": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef1adbb5-4e84-4013-a3a4-b2dce48b1430",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
