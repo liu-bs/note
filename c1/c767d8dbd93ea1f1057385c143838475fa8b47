@@ -1,0 +1,35 @@
+.trae/skills/frontend-design/design.md
+  h_7a7e6c68a7d90b 1-55
+src/renderer/src/components/NoteList.tsx
+  s_27c04cab0f5c41::t_612a5563a7b683 29
+src/renderer/src/index.css
+  s_27c04cab0f5c41::t_a753858ae465a5 17
+  s_27c04cab0f5c41::t_a5129166cba915 5-7,10-16,18-22,24,26-30,32-33,38-43,45-47,50-55
+  s_27c04cab0f5c41::t_c158842eeef86e 25
+  s_27c04cab0f5c41::t_2f36b1814f1e7a 49
+src/renderer/src/components/MarkdownEditor.tsx
+  s_27c04cab0f5c41::t_8b0cf07e8690aa 135
+  s_27c04cab0f5c41::t_41ba09447b4896 98-103
+  s_27c04cab0f5c41::t_a753858ae465a5 104-120,122-131,133-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "c1c767d8dbd93ea1f1057385c143838475fa8b47",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_27c04cab0f5c41": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ef31385-c0a0-4b8d-a472-f14caee59a88",
+        "model": "deepseek-v4-flash-vision"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
