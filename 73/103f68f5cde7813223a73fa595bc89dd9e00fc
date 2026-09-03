@@ -1,0 +1,36 @@
+src/main/index.ts
+  s_83e8175da72bd3::t_4d6092d9fdfb6f 19,32
+  s_83e8175da72bd3::t_4fb098777fd299 2,18,20-28
+  s_83e8175da72bd3::t_64978047e8727c 29-31
+  s_83e8175da72bd3::t_c854762e645779 1,17,33-46
+src/renderer/src/components/ActionButtonRow.tsx
+  s_83e8175da72bd3::t_24b907c3571274 11
+src/renderer/src/store/index.ts
+  s_83e8175da72bd3::t_c085f945e85c63 33-36
+  s_83e8175da72bd3::t_e3074234409a56 48-50
+src/preload/index.d.ts
+  s_83e8175da72bd3::t_14d8be6435db74 17
+  s_83e8175da72bd3::t_d5df39fecd0534 18
+src/shared/constant.ts
+  s_83e8175da72bd3::t_7ea85a901a476f 11
+  s_83e8175da72bd3::t_93411ad66d32f5 10,12
+src/preload/index.ts
+  s_83e8175da72bd3::t_f8d205ee1c38c9 23
+  s_83e8175da72bd3::t_416b424c3a50a4 22,24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "73103f68f5cde7813223a73fa595bc89dd9e00fc",
+  "prompts": {},
+  "sessions": {
+    "s_83e8175da72bd3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af834eb6-d60d-4b47-b5e2-87700dcb06cc",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
