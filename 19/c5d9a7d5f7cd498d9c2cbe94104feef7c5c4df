@@ -1,0 +1,72 @@
+electron.vite.config.ts
+  s_59deeb404a035a::t_d1d64f1a3d0478 25
+src/renderer/src/App.tsx
+  s_59deeb404a035a::t_d4a0942595ec3d 45
+  s_59deeb404a035a::t_e4b36e83f3b073 34
+src/main/index.ts
+  s_59deeb404a035a::t_5f83cc1e6f9a53 75-76
+  s_59deeb404a035a::t_2efc94f5adb76a 102
+src/renderer/src/store/index.ts
+  s_59deeb404a035a::t_5c10c57a6d7e92 86-90,96
+src/renderer/src/hooks/useMarkdownEditorState.ts
+  s_59deeb404a035a::t_05b02d86f6a7ff 1-4,6-20,32-277
+  s_59deeb404a035a::t_1e81eb1a9a0d97 21-24,26-31
+  s_59deeb404a035a::t_d0f599f23f7e07 25
+  s_59deeb404a035a::t_3e446353b29d25 5
+src/renderer/src/components/index.ts
+  s_59deeb404a035a::t_94aaee74d49154 11,14
+src/renderer/src/main.tsx
+  s_59deeb404a035a::t_ce3a44b8876c10 10,14,18-20
+src/renderer/src/components/MarkdownPreview.tsx
+  s_59deeb404a035a::t_daf4c0cf67457e 1-34
+src/renderer/src/components/MarkdownEditor.tsx
+  s_59deeb404a035a::t_19e56060993a5f 3,5-10,14,18-29,75,92
+src/renderer/src/components/AppLayout.tsx
+  s_59deeb404a035a::t_0b98dd79b2eab4 43
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_59deeb404a035a::t_659335328227eb 27-28
+  s_59deeb404a035a::t_b4d993beeb9456 52,56-61
+  s_59deeb404a035a::t_910b95bc9272d5 79
+src/renderer/src/styles/editor.css
+  s_59deeb404a035a::t_3af5ec1e55b3f4 1-142
+src/renderer/src/components/Toolbar.tsx
+  s_59deeb404a035a::t_4344213e014446 12
+  s_59deeb404a035a::t_77d7bbc9582f3d 1-11,14-104
+  s_59deeb404a035a::t_ba5f27f7cf06a6 13
+package.json
+  s_59deeb404a035a::t_36a4b9483fafde 57
+  s_59deeb404a035a::t_24d9abfdb12faa 25-33
+src/preload/index.ts
+  s_59deeb404a035a::t_e1ad47a1059766 42-43
+src/renderer/src/components/ErrorBoundary.tsx
+  s_59deeb404a035a::t_d24ce8be9abb87 1-15,17-63
+  s_59deeb404a035a::t_04f3091b967e52 16
+src/renderer/src/utils/index.ts
+  s_59deeb404a035a::t_1fbc1fe8d1eb61 19,22
+src/renderer/src/hooks/useNotesList.ts
+  s_59deeb404a035a::t_d3c20bb024fb3f 31-36
+src/main/lib/index.ts
+  s_59deeb404a035a::t_c47b9e67372521 51-56,58-64
+  s_59deeb404a035a::t_79f2af627e0f5c 133-135,143-144
+  s_59deeb404a035a::t_81302539172724 113-118
+  s_59deeb404a035a::t_9ea9cb5857bc32 157-159,164-165
+  s_59deeb404a035a::t_2d8cc6a63dcfd1 91-93,98-99
+  s_59deeb404a035a::t_af6ae372d1cd85 178-183,190-191
+  s_59deeb404a035a::t_354c67e677f24c 225-227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "19c5d9a7d5f7cd498d9c2cbe94104feef7c5c4df",
+  "prompts": {},
+  "sessions": {
+    "s_59deeb404a035a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f939bc-f6d0-4999-b839-e9dbff140d9e",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
