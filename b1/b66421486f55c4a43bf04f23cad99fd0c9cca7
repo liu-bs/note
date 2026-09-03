@@ -1,0 +1,36 @@
+src/renderer/src/components/index.ts
+  s_27c04cab0f5c41::t_234953c702e78b 7
+src/renderer/src/App.tsx
+  s_27c04cab0f5c41::t_83d5fa90c1db54 8
+  s_27c04cab0f5c41::t_9f806ba0d666e9 57-58
+src/renderer/src/types/store.ts
+  s_27c04cab0f5c41::t_f8f96df7009e79 21-22,34-39
+src/renderer/src/components/NoteListItem.tsx
+  s_27c04cab0f5c41::t_31fa4f3bfac1c4 13,23-24,32,37,39
+src/renderer/src/components/DeleteConfirmDialog.tsx
+  s_27c04cab0f5c41::t_ba041e5d5bbd49 45
+  s_27c04cab0f5c41::t_8333b20261f929 1-44,46-70
+src/renderer/src/store/index.ts
+  s_27c04cab0f5c41::t_baaaa9de69c2b0 38-39
+  s_27c04cab0f5c41::t_5d069d00129204 104-105,107,109-126,128-143
+src/renderer/src/styles/editor.css
+  s_27c04cab0f5c41::t_4cadd294ea6e02 50-64
+src/renderer/src/components/MarkdownEditor.tsx
+  s_27c04cab0f5c41::t_24ca755bfb1b9b 122,129-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b1b66421486f55c4a43bf04f23cad99fd0c9cca7",
+  "prompts": {},
+  "sessions": {
+    "s_27c04cab0f5c41": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ef31385-c0a0-4b8d-a472-f14caee59a88",
+        "model": "deepseek-v4-flash-vision"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
