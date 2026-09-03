@@ -1,0 +1,34 @@
+src/renderer/src/hooks/useNotesList.ts
+  s_2cb9240b491962::t_a529b168af6e18 1,16-19,30
+src/renderer/src/hooks/useMarkdownEditor.ts
+  s_2cb9240b491962::t_be928b8805f5fc 1,5-7
+src/renderer/src/store/index.ts
+  s_2cb9240b491962::t_845a2d38e9cefe 1,6-19,21,23,26-29,31-33,35-57,59-73,75,77-78,81-85,87,90
+src/renderer/src/components/ActionButtonRow.tsx
+  s_2cb9240b491962::t_8373d6a67eeb2e 2,8-9
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_2cb9240b491962::t_ce1a15358623c7 1,11
+src/renderer/src/components/MarkdownEditor.tsx
+  s_2cb9240b491962::t_9237f62f212e02 6
+  s_2cb9240b491962::t_ff99960bcb7b26 67-68
+package.json
+  s_2cb9240b491962::t_1b2d5692720397 25-26
+pnpm-lock.yaml
+  s_2cb9240b491962::t_900a2aa603d4c7 17-19,3181-3198,6817-6821
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "e9f7a4a925e657c402706071f37fe8ac220641d5",
+  "prompts": {},
+  "sessions": {
+    "s_2cb9240b491962": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef1adbb5-4e84-4013-a3a4-b2dce48b1430",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
