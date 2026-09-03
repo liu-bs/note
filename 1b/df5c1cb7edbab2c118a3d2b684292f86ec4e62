@@ -1,0 +1,51 @@
+src/renderer/src/components/MarkdownEditor.tsx
+  s_27c04cab0f5c41::t_abcbf09f68e783 6
+  s_27c04cab0f5c41::t_cafaef8b73d4ac 101,103,105-122,132
+src/renderer/src/components/AppLayout.tsx
+  s_27c04cab0f5c41::t_7f7d275efc1887 44
+src/renderer/src/styles/editor.css
+  s_27c04cab0f5c41::t_71af84757155be 1-3,7-11,14,19-22,24-29,32-33,39,43-45,47-53,56,58-62,65-69,72,74-80,83,86,88-92,95,98,101-110,119-122,126-127,129,131-133,135-138,140,142-146,150,155,157,160,162,166-167,171,176,178
+src/renderer/src/components/Button/ActionButton.tsx
+  s_27c04cab0f5c41::t_12b74d0f38e58a 27-29
+src/renderer/src/components/Button/DeleteNoteButton.tsx
+  s_27c04cab0f5c41::t_deea82b5e38e81 21
+src/renderer/src/components/Toolbar.tsx
+  s_27c04cab0f5c41::t_557d61d6c2ef76 3,5,7-21,58-80,83,100,102-115,117-139
+src/renderer/src/components/Button/NewNoteButton.tsx
+  s_27c04cab0f5c41::t_9456c2c7ab4914 21
+src/renderer/src/components/MarkdownPreview.tsx
+  s_27c04cab0f5c41::t_80119c3bb26ba7 25-31
+src/renderer/src/components/NoteListItem.tsx
+  s_27c04cab0f5c41::t_35719e5c7f2ee0 11,28-34,36-51,53
+src/renderer/src/App.tsx
+  s_27c04cab0f5c41::t_b938f80ace4682 43-45,50,52
+src/renderer/src/components/NoteList.tsx
+  s_27c04cab0f5c41::t_bbfb1eb9903137 25-30
+  s_27c04cab0f5c41::t_2f741715951af7 8
+src/renderer/src/index.css
+  s_27c04cab0f5c41::t_419b14025a48e8 4-51,58-63,71-73,75,78,81-89
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_27c04cab0f5c41::t_874dc9974b59b8 74
+  s_27c04cab0f5c41::t_21e3a11d15a21f 87,94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1bdf5c1cb7edbab2c118a3d2b684292f86ec4e62",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_27c04cab0f5c41": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ef31385-c0a0-4b8d-a472-f14caee59a88",
+        "model": "deepseek-v4-flash-vision"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
