@@ -1,0 +1,30 @@
+src/renderer/src/store/index.ts
+  s_83e8175da72bd3::t_3c049ba6d82109 12,15,24-25,29-30,37,45-48,53,61,66-73,76
+src/renderer/src/components/MarkdownEditor.tsx
+  s_83e8175da72bd3::t_867ff0fdc52b3c 72-73,79-81,93-98
+  s_83e8175da72bd3::t_82fbf1c6237d2b 77,82-91,100,124
+  s_83e8175da72bd3::t_45a3bb8c076fe4 350
+  s_83e8175da72bd3::t_3926d220a9eea8 266-267,285-286,291
+  s_83e8175da72bd3::t_8acd122efbfec1 143-146,151,165,175-176,187,199
+  s_83e8175da72bd3::t_c8164b9188d0be 269-274,276,278-284,288
+  s_83e8175da72bd3::t_93b8ffa3f9b2ea 349,351-352
+  s_83e8175da72bd3::t_78942c7fb8f44b 229-231
+src/main/lib/index.ts
+  s_83e8175da72bd3::t_d8bc67965dbbea 4,11-16,20-30,32-34,38-39,46,52-55,59-62,66-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "63ee0656a29985ea88b7502423bd55e8770c752e",
+  "prompts": {},
+  "sessions": {
+    "s_83e8175da72bd3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af834eb6-d60d-4b47-b5e2-87700dcb06cc",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
