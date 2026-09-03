@@ -1,0 +1,19 @@
+package.json
+  s_59deeb404a035a::t_60e33a03808ae9 25,37,45-46,50-53,56-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4496572aa096de9a7b83d4f8fb48dc5b4bb1e390",
+  "prompts": {},
+  "sessions": {
+    "s_59deeb404a035a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f939bc-f6d0-4999-b839-e9dbff140d9e",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
