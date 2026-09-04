@@ -1,0 +1,40 @@
+src/renderer/src/types/store.ts
+  s_007699658fe8e1::t_a7c3a72f3c45bc 24-27
+src/renderer/src/hooks/useNotesList.ts
+  s_007699658fe8e1::t_90194eaacffbfe 3,17-18,21-22,26,29
+src/renderer/src/hooks/useMarkdownEditorState.ts
+  s_007699658fe8e1::t_135af8be72f550 209,215
+  s_007699658fe8e1::t_a5d2bffe1797ef 3,7,34-35,39,49-58
+  s_007699658fe8e1::t_2979d89fdd66f9 8-25
+src/renderer/src/components/Toolbar.tsx
+  s_007699658fe8e1::t_fe2e34d71ccb40 24-25
+src/shared/constant.ts
+  s_007699658fe8e1::t_2425d67184be57 30
+src/renderer/src/types/editor.ts
+  s_007699658fe8e1::t_8a88994ded6fe7 15-16
+src/main/index.ts
+  s_007699658fe8e1::t_2db31431eaa90f 30
+src/preload/index.ts
+  s_007699658fe8e1::t_1c8915c3dd6a32 37
+src/renderer/src/store/index.ts
+  s_007699658fe8e1::t_840e6861347204 22-24
+  s_007699658fe8e1::t_7c44eea7ee68f2 44-60
+src/renderer/src/components/index.ts
+  s_007699658fe8e1::t_2e2a72fb629025 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "93d261eeefb795e219165c1fe01826f025eed117",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
