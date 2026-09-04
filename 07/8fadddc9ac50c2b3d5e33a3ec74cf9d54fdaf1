@@ -1,0 +1,48 @@
+src/main/index.ts
+  s_007699658fe8e1::t_e84fd14d1a350f 5,21,23-29,31
+  s_007699658fe8e1::t_349f0a6a535df0 11-15,33-37
+  s_007699658fe8e1::t_f7dec8fb40266f 45-47
+  s_007699658fe8e1::t_bc310ae2ae2d08 106
+  s_007699658fe8e1::t_9fbd868bb28a3e 130,135
+  s_007699658fe8e1::t_0eccc86e9f6775 141,145,152,160-161
+  s_007699658fe8e1::t_00fb5cc746541f 32
+  s_007699658fe8e1::t_5f088fb3274988 51-54,57,67-69,77-80,82-89
+  s_007699658fe8e1::t_a5f40e19e2278e 115,117-119,121-124,127-129,139-140,142-144,146-151,153-159,162
+  s_007699658fe8e1::t_fcbfed8afbd597 120
+  s_007699658fe8e1::t_baa29de0ebd51a 163
+src/main/menu.ts
+  s_007699658fe8e1::t_ce88dac77ce342 5
+  s_007699658fe8e1::t_25bc4de0ea88e3 1-4,6-95
+src/renderer/index.html
+  s_007699658fe8e1::t_1b6bdfbcd492c1 5,9
+  s_007699658fe8e1::t_de93f6d0fdea40 14-30
+src/renderer/src/components/ErrorBoundary.tsx
+  s_007699658fe8e1::t_eb10d74955e4be 47-50,52-55,60-66
+src/main/window-state.ts
+  s_007699658fe8e1::t_23eca4b8ba5c02 1-78
+src/main/lib/index.ts
+  s_007699658fe8e1::t_a38439a5e93ad5 164-167
+  s_007699658fe8e1::t_d271fffd7555bf 191-192,194
+  s_007699658fe8e1::t_1c76661e0f16d9 52
+  s_007699658fe8e1::t_bb0a6c4aa60fde 121
+  s_007699658fe8e1::t_38c9c312bfcc64 138,141-143,145-146
+  s_007699658fe8e1::t_5bbc75435a57d4 10
+electron-builder.yml
+  s_007699658fe8e1::t_fd5788b157fda2 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "078fadddc9ac50c2b3d5e33a3ec74cf9d54fdaf1",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
