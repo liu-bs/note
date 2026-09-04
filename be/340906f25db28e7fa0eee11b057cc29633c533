@@ -1,0 +1,31 @@
+src/main/lib/index.ts
+  s_007699658fe8e1::t_70895951ffa4e6 3
+  s_007699658fe8e1::t_e242e21c42f0fe 188,193-204,206
+package.json
+  s_007699658fe8e1::t_b7a4b72332206e 6
+  s_007699658fe8e1::t_d220184ec51ba9 4
+electron-builder.yml
+  s_007699658fe8e1::t_e4bb162e48d4a4 2
+src/renderer/src/store/index.ts
+  s_007699658fe8e1::t_f60d84d9b7607d 50-51
+  s_007699658fe8e1::t_af282d12f9931f 22-24
+src/renderer/src/components/MarkdownEditor.tsx
+  s_007699658fe8e1::t_597e3028c4cf99 12-15
+  s_007699658fe8e1::t_cf1ed8519b91d7 34-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "be340906f25db28e7fa0eee11b057cc29633c533",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
