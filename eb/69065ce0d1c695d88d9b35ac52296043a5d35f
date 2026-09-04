@@ -1,0 +1,40 @@
+src/renderer/src/components/DeleteConfirmDialog.tsx
+  s_007699658fe8e1::t_d85aa122a61661 42,50
+src/renderer/src/App.tsx
+  s_007699658fe8e1::t_9d51d31e461c78 116
+  s_007699658fe8e1::t_40046918ff68b0 114-115
+  s_007699658fe8e1::t_0059dad39c0c4d 117-119
+src/renderer/src/index.css
+  s_007699658fe8e1::t_ee9e40cafa4a06 132-139,142-171,176,183,186,216
+  s_007699658fe8e1::t_eecbac4a067c15 172-175
+  s_007699658fe8e1::t_6742a67e01550b 177-182
+  s_007699658fe8e1::t_b7daff24355e5a 184-185
+  s_007699658fe8e1::t_c702357cdd3cd3 187-189
+  s_007699658fe8e1::t_1b60241cf37064 215
+  s_007699658fe8e1::t_e57c31ac5e6623 217
+src/renderer/src/components/NoteListItem.tsx
+  s_007699658fe8e1::t_3a2d2451504657 54
+src/renderer/src/components/MarkdownEditor.tsx
+  s_007699658fe8e1::t_96ad16921715c1 138
+  s_007699658fe8e1::t_e3d65fd17b1015 139-141
+src/renderer/src/components/MarkdownPreview.tsx
+  s_007699658fe8e1::t_40f0fce02ffda2 34
+  s_007699658fe8e1::t_41a89cab858f14 31-33
+  s_007699658fe8e1::t_f96b8c8746982f 35-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "eb69065ce0d1c695d88d9b35ac52296043a5d35f",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
