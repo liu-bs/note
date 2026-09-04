@@ -1,0 +1,29 @@
+src/renderer/src/styles/editor.css
+  s_007699658fe8e1::t_643dc64949c00d 54-58
+src/renderer/src/components/MarkdownEditor.tsx
+  s_007699658fe8e1::t_da8b8cc2872ad1 120
+  s_007699658fe8e1::t_7021c51fdcd0be 134
+src/renderer/src/components/Toolbar.tsx
+  s_007699658fe8e1::t_51b7c34caa21ec 98-99
+  s_007699658fe8e1::t_a421d54dd5e719 129,135
+  s_007699658fe8e1::t_7c300b290a5849 111
+  s_007699658fe8e1::t_78e8780daf23d0 136
+src/renderer/src/components/MarkdownPreview.tsx
+  s_007699658fe8e1::t_2d447ba8c70ec0 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7546174155943e6cee23c0cb79bbfa72e9efe806",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
