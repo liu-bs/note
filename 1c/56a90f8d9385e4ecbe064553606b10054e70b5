@@ -1,0 +1,19 @@
+src/main/window-state.ts
+  s_007699658fe8e1::t_2d341eab44170a 63-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1c56a90f8d9385e4ecbe064553606b10054e70b5",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
