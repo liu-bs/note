@@ -1,0 +1,22 @@
+src/renderer/src/index.css
+  s_007699658fe8e1::t_854dcebc2e4e6f 56-58,135-136,162,177,200,202
+  s_007699658fe8e1::t_ab474f7c8046cb 3,8,66-67,83-88,97,104-112,123,125-130,133,142,183-189,201,249,295-296,302-307
+src/renderer/src/components/Toolbar.tsx
+  s_007699658fe8e1::t_13d2eb9269a9db 107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9dbca7169a0cb787d556b09e3af1b5c2da132c15",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
