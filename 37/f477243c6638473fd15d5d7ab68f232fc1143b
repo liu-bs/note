@@ -1,0 +1,38 @@
+src/renderer/src/components/Toolbar.tsx
+  s_e4322843081209::t_7482bbfa2e6cda 135
+src/renderer/src/styles/editor.css
+  s_e4322843081209::t_b2332911f64be2 167,169-170
+  s_e4322843081209::t_542c2cae5ea4fa 5-9
+src/renderer/src/components/DeleteConfirmDialog.tsx
+  s_e4322843081209::t_34f884b3a8522d 43
+src/renderer/src/components/MarkdownEditor.tsx
+  s_e4322843081209::t_fb8e9246160ae0 102
+src/renderer/src/components/NoteListItem.tsx
+  s_e4322843081209::t_da8233255ce1c1 53-59,62,64
+src/renderer/src/index.css
+  s_e4322843081209::t_f21e031a443503 8-11,23-24,28,42-43,45,61
+  s_e4322843081209::t_78f6fc9cef9f8f 7,75
+  s_e4322843081209::t_96e8ad60051a18 6
+  s_e4322843081209::t_9b170c63f1a725 14-22,25-27,29-33,35-41,44,46-47,49-50,55-58,60,62-65,67-74,76-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "37f477243c6638473fd15d5d7ab68f232fc1143b",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_e4322843081209": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fde0bd9f-c4dd-4d40-999a-bc53aad04593",
+        "model": "deepseek-v4-flash-vision"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
