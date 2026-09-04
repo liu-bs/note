@@ -1,0 +1,20 @@
+src/renderer/src/index.css
+  s_007699658fe8e1::t_ca6126cec05a76 3
+  s_007699658fe8e1::t_250cdc8ea1e8d4 140-351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "580a51cf1f54bfac4559f5a88c98158594946b80",
+  "prompts": {},
+  "sessions": {
+    "s_007699658fe8e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d70a23e6-7d9f-4c32-b57f-c611161c36fa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
