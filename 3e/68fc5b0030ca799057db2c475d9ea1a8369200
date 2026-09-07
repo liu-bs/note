@@ -1,0 +1,53 @@
+src/preload/index.ts
+  s_3d8d5fba7c6e71::t_3f4855b2ff1018 3
+  s_3d8d5fba7c6e71::t_33a13ca838b563 34-42
+src/preload/index.d.ts
+  s_3d8d5fba7c6e71::t_13700daccbcde9 29-36
+README.md
+  s_3d8d5fba7c6e71::t_bda1711fcafdcf 12
+  s_3d8d5fba7c6e71::t_9bf01c88767850 35
+src/main/index.ts
+  s_3d8d5fba7c6e71::t_3e45be4f0c4e38 145-147
+  s_3d8d5fba7c6e71::t_29c1d130977c6a 37-56
+  s_3d8d5fba7c6e71::t_7168863d840114 9
+  s_3d8d5fba7c6e71::t_629ef20f61c68e 36
+src/renderer/src/components/DraggableTopBar.tsx
+  s_3d8d5fba7c6e71::t_cf5c87476c840a 3,6,10,14-18
+electron-builder.yml
+  s_2f8d17cd6f3bef::t_d5b3eaf435a97f 15-18
+src/renderer/src/components/WindowControls.tsx
+  s_3d8d5fba7c6e71::t_6221f7c338b985 1-73
+src/shared/constant.ts
+  s_3d8d5fba7c6e71::t_5eef602e2be7e2 26-37
+src/renderer/src/components/index.ts
+  s_3d8d5fba7c6e71::t_e2a281bd34f500 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3e68fc5b0030ca799057db2c475d9ea1a8369200",
+  "prompts": {},
+  "humans": {
+    "h_7a7e6c68a7d90b": {
+      "author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_2f8d17cd6f3bef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "11cd4a41-968e-47b6-a5d3-2174f1e1c547",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    },
+    "s_3d8d5fba7c6e71": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10d948af-832f-4639-8472-ef2f121e107e",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
