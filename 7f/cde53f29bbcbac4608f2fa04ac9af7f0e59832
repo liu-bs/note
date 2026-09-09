@@ -1,0 +1,45 @@
+src/renderer/src/components/NoteListItem.tsx
+  s_a6605df4bf91d2::t_630175115fab83 3,31-32,39,44,46-47,52,58
+src/renderer/src/components/AppLayout.tsx
+  s_a6605df4bf91d2::t_dfc082c6e94d6c 3,14,28
+src/renderer/src/components/MarkdownPreview.tsx
+  s_a6605df4bf91d2::t_3678483be59a14 3
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_a6605df4bf91d2::t_f7f1982405aa76 3,61,67
+src/renderer/src/components/Button/ActionButton.tsx
+  s_a6605df4bf91d2::t_cf51b1a2bbe164 3,18-20
+src/renderer/src/App.tsx
+  s_a6605df4bf91d2::t_0c4536f25d7fc8 3,52,76,78,82,92
+src/renderer/src/components/NoteList.tsx
+  s_a6605df4bf91d2::t_835d365766ab40 3,16-17
+src/renderer/src/components/DeleteConfirmDialog.tsx
+  s_a6605df4bf91d2::t_b7970da8dfcaa7 3,34,36,39,46,52
+src/renderer/src/components/Button/NewNoteButton.tsx
+  s_a6605df4bf91d2::t_59dfdd8e24fa0f 3,14
+src/renderer/src/components/MarkdownEditor.tsx
+  s_a6605df4bf91d2::t_8e472c71cdb258 3,147,150,167,179-180
+src/renderer/src/index.css
+  s_a6605df4bf91d2::t_7e5828b6670932 3,8-20,23-34,36-41,46-56,58-63,68,71-76,80-86,96,101,103-104,106-107,113,117,125,128,131-133,135-136,139,143-144,147-148,150-152,155-156,167-169,173,176,179-181,186-191,194-195,198,206-208,210,214,226,229,238,240,242-244,247,251,254,257,262,265,268,274,280,283-287,291-292,301,304,308,314-315,320-321,323-324,328,337,343,348
+src/renderer/src/components/Toolbar.tsx
+  s_a6605df4bf91d2::t_eb61af0b3f9e0e 3,86,92,106,118-119
+src/renderer/src/components/WindowControls.tsx
+  s_a6605df4bf91d2::t_8033ee61b461ab 3,31,40,56
+src/renderer/src/components/SidebarHeader.tsx
+  s_a6605df4bf91d2::t_9eb94c9209747b 3,16,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7fcde53f29bbcbac4608f2fa04ac9af7f0e59832",
+  "prompts": {},
+  "sessions": {
+    "s_a6605df4bf91d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "086870b1-b8dc-4149-867f-675c42e558ac",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
