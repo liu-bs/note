@@ -1,0 +1,42 @@
+src/renderer/src/components/DraggableTopBar.tsx
+  s_b39458bbd045cc::t_e04a865f8b76d8 15
+src/renderer/index.html
+  s_b39458bbd045cc::t_3870468f213423 2,5,32,43,61,64
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_b39458bbd045cc::t_022c00ae50f942 67
+src/renderer/src/components/NoteList.tsx
+  s_b39458bbd045cc::t_e0596a57808c29 16-18
+src/renderer/src/components/SidebarHeader.tsx
+  s_b39458bbd045cc::t_3db604b2409a11 16,19
+src/renderer/src/components/MarkdownPreview.tsx
+  s_b39458bbd045cc::t_b3a9f862f9386f 29
+src/renderer/src/components/Button/NewNoteButton.tsx
+  s_b39458bbd045cc::t_b70c2d6d0e3dc7 14
+src/renderer/src/components/NoteListItem.tsx
+  s_b39458bbd045cc::t_811468a0e5594d 39
+  s_b39458bbd045cc::t_4409d49f8e1666 52
+  s_b39458bbd045cc::t_44685f62d11bfc 44
+  s_b39458bbd045cc::t_727c5c143af98f 29
+  s_b39458bbd045cc::t_31cef1f802edac 58
+src/renderer/src/components/ErrorBoundary.tsx
+  s_b39458bbd045cc::t_e82e6fac1a19b9 60,62-63,68,72
+src/renderer/src/components/MarkdownEditor.tsx
+  s_b39458bbd045cc::t_edaef30e2da6ea 167
+  s_b39458bbd045cc::t_5e403a7dd13736 147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "db0a1b14536728b6200d6c0452c178dcee1f344a",
+  "prompts": {},
+  "sessions": {
+    "s_b39458bbd045cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d5c66733-c6c8-4e55-8454-6b6e3d9c9036",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
