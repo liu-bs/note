@@ -1,0 +1,31 @@
+src/renderer/src/components/MarkdownEditor.tsx
+  s_a96748e396ad7f::t_4c405d08581d5b 99-106,113-114,119-121,124,132-133,138-140,143
+src/renderer/src/hooks/useMarkdownEditorState.ts
+  s_a96748e396ad7f::t_2b77698f453272 246-247,251,254
+  s_a96748e396ad7f::t_db70af653ca122 248-250
+  s_a96748e396ad7f::t_72e678c7f170c4 66-69
+  s_a96748e396ad7f::t_61549f3246fd03 54,56
+  s_a96748e396ad7f::t_29c8c0bde800ca 37,60-65,70-75
+  s_a96748e396ad7f::t_977eecbc776a2e 77,79-80
+src/shared/constant.ts
+  s_a96748e396ad7f::t_b6a1876d38c15d 12-14
+src/main/lib/index.ts
+  s_a96748e396ad7f::t_0a44cad8a85a38 164
+  s_a96748e396ad7f::t_0065e8082c4139 8-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "33e17a803179b2ffaeff16822704e714184b546a",
+  "prompts": {},
+  "sessions": {
+    "s_a96748e396ad7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d35aac8-34e9-47d1-91ad-97b2ca7ca04a",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
