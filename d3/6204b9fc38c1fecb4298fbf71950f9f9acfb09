@@ -1,0 +1,21 @@
+src/renderer/src/components/NoteListItem.tsx
+  s_b39458bbd045cc::t_345b02a47706a6 29,36-42
+src/renderer/src/App.tsx
+  s_b39458bbd045cc::t_ee4fc6d9652f60 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d36204b9fc38c1fecb4298fbf71950f9f9acfb09",
+  "prompts": {},
+  "sessions": {
+    "s_b39458bbd045cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d5c66733-c6c8-4e55-8454-6b6e3d9c9036",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
