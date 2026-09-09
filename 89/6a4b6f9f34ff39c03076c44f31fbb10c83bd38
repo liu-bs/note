@@ -1,0 +1,54 @@
+src/renderer/src/components/MarkdownEditor.tsx
+  s_b39458bbd045cc::t_2557d450bdda44 147,150
+  s_b39458bbd045cc::t_7bbb49f4e8dcda 167
+  s_b39458bbd045cc::t_d11dccb26b03aa 180
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_b39458bbd045cc::t_27eecf8d68cb88 49,61
+src/renderer/src/components/Toolbar.tsx
+  s_b39458bbd045cc::t_7370393c64efc7 86
+  s_b39458bbd045cc::t_aefc239d506baf 92
+  s_b39458bbd045cc::t_49cbe7dfcee127 106,116,118
+src/renderer/src/components/Button/ActionButton.tsx
+  s_b39458bbd045cc::t_d95795cc53ec5d 18,20
+src/renderer/src/components/NoteList.tsx
+  s_b39458bbd045cc::t_833e42c39719e4 16-18
+src/renderer/src/index.css
+  s_b39458bbd045cc::t_5020ffb0f8a5b6 11,15,24,31,40,107-112,151,176
+  s_b39458bbd045cc::t_c80b8f55781b62 3,8-10,12-14,16-23,25-30,32-39,48,51,59,64,69-70,74,76,85,87,90,95-96,100,102,106,143,145,153-154,162-163,167-168,190,194-195,201-203,211,215,238-241,243,251,254,263,267,271,370,375,406
+src/renderer/src/components/NoteListItem.tsx
+  s_b39458bbd045cc::t_c24361181f4db5 29,39,44,52,58
+src/renderer/src/App.tsx
+  s_b39458bbd045cc::t_5a68afedabb7ba 91-92
+  s_b39458bbd045cc::t_c19fe027a3c4cc 76,78,82
+  s_b39458bbd045cc::t_7c2715298632f4 94
+  s_b39458bbd045cc::t_4aba1df7e69926 106
+src/renderer/src/main.tsx
+  s_b39458bbd045cc::t_1558900adfb171 12-16
+src/renderer/src/components/DeleteConfirmDialog.tsx
+  s_b39458bbd045cc::t_34ec545e5d0e87 27,34,36,42,46,52
+src/renderer/src/components/MarkdownPreview.tsx
+  s_b39458bbd045cc::t_6307eccf846d4b 29
+src/renderer/src/components/WindowControls.tsx
+  s_b39458bbd045cc::t_f9d1412385f0bc 60-61
+  s_b39458bbd045cc::t_bffdb2eaf7dcc4 31,35,40,45-46,50,56
+src/renderer/src/components/Button/NewNoteButton.tsx
+  s_b39458bbd045cc::t_6e1bab510695d7 14
+src/renderer/src/components/SidebarHeader.tsx
+  s_b39458bbd045cc::t_235f6cd5dd9cb2 16,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "896a4b6f9f34ff39c03076c44f31fbb10c83bd38",
+  "prompts": {},
+  "sessions": {
+    "s_b39458bbd045cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d5c66733-c6c8-4e55-8454-6b6e3d9c9036",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
