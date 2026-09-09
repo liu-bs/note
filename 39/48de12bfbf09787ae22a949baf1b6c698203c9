@@ -1,0 +1,70 @@
+src/renderer/src/hooks/useNotesList.ts
+  s_68a8f42013f1c2::t_5e968545be58fb 10-11,26-28,33-36
+src/shared/types.ts
+  s_68a8f42013f1c2::t_46b54732e43c9f 1-4,6-8
+src/renderer/src/components/SidebarHeader.tsx
+  s_68a8f42013f1c2::t_b02ac29d348fe4 3,11-14,20,22
+src/renderer/src/components/Button/NewNoteButton.tsx
+  s_68a8f42013f1c2::t_59d87c4db758c4 10-13
+  s_68a8f42013f1c2::t_a7831f1b4be83c 21
+src/renderer/src/App.tsx
+  s_68a8f42013f1c2::t_03db0065caf455 3,19-21,23,26,29-32,34-37,59-61,89,94,105
+src/renderer/src/components/Button/ActionButton.tsx
+  s_68a8f42013f1c2::t_b96316fbf5c7e5 3,9-12
+src/renderer/src/components/ErrorBoundary.tsx
+  s_68a8f42013f1c2::t_f86e59224c96f8 8,64
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_68a8f42013f1c2::t_fe5da3a383bb8f 10-14,19,21,23,25
+  s_68a8f42013f1c2::t_ce8fad09b4488a 60,74
+src/renderer/src/components/MarkdownEditor.tsx
+  s_68a8f42013f1c2::t_71231776144f92 192
+  s_68a8f42013f1c2::t_5628fb5325c062 11,13,16-19,33,37,42-44,49-51,56,58,61,63,66,68,71-73,103-105,117-121,130-132,140-142,162-164,195,197,202,224,236
+src/renderer/src/components/WindowControls.tsx
+  s_68a8f42013f1c2::t_f4d701660d32c5 3,7,10-13,15,26-28,30-32,36-38,43,61,94
+src/renderer/src/components/NoteList.tsx
+  s_68a8f42013f1c2::t_49264219aaa2f3 3,12-15,21
+src/renderer/src/hooks/useMarkdownEditorState.ts
+  s_68a8f42013f1c2::t_47b63af25d4374 35,41,43,45,48-50,55,57,59,61,63,65,68,70,73,75,78,86-88,93,95,98-100,104-107,112-114,120-123,132-135,144-146,170-172,185-188,258-261,291,293-296,301-303
+src/renderer/src/components/Toolbar.tsx
+  s_68a8f42013f1c2::t_de1d2b881181af 24,54,57,73,80-82,84,86,88,92-96,102,122
+src/main/index.ts
+  s_68a8f42013f1c2::t_76ce34138314af 3,19,33,37,59,110,113,115,130,144,154,166,180,185
+src/preload/index.d.ts
+  s_68a8f42013f1c2::t_3813a447983bae 1-4,11-13,20-22
+src/renderer/src/store/index.ts
+  s_68a8f42013f1c2::t_6c36c6458cf09d 2-3,24-25,45-46,72,102,119,133,146,161,165,172,180,197,209,224,247,272
+src/renderer/src/components/AppLayout.tsx
+  s_68a8f42013f1c2::t_b4cf5d590ca328 3,8-11,24-27,46-49
+src/renderer/src/main.tsx
+  s_68a8f42013f1c2::t_49931bf23a2802 12
+src/renderer/src/components/MarkdownPreview.tsx
+  s_68a8f42013f1c2::t_0b65a608fc5caa 10,12,15-17,19,21,23,27-30,41
+src/main/lib/index.ts
+  s_68a8f42013f1c2::t_b8ebf343601728 3,18,21,27,37-38,40,42,44,49,51,56-57,122,143,168,189,220
+src/renderer/src/utils/index.ts
+  s_68a8f42013f1c2::t_3b8e28828abac5 2-3,10-11
+src/preload/index.ts
+  s_68a8f42013f1c2::t_5445218692f1af 1-4,23-26,28-32,34-39,42-46,48-52,54-59,62-65,67-70,72-75,77-80,82-85,87-91
+src/shared/constant.ts
+  s_68a8f42013f1c2::t_4b9d1aed5e2d73 1-4,6,18-20,38-40,50
+src/renderer/src/components/NoteListItem.tsx
+  s_68a8f42013f1c2::t_733c2799a3d13d 3,11-14,19-21,24-27,44,52,63,67
+src/renderer/src/components/DeleteConfirmDialog.tsx
+  s_68a8f42013f1c2::t_dd8ee2ec6abba7 8-11,17-19,36,44,48,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3948de12bfbf09787ae22a949baf1b6c698203c9",
+  "prompts": {},
+  "sessions": {
+    "s_68a8f42013f1c2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a25362f-68b9-4e88-9499-29d03c4370aa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
