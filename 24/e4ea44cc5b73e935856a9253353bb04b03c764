@@ -1,0 +1,43 @@
+src/renderer/src/index.css
+  s_038b15db298319::t_eec78d4731d234 172
+  s_038b15db298319::t_711edce943eb9f 249
+  s_038b15db298319::t_d7628d03c77567 8,10-20,24-29,31-33,35-36,39,45-51,53-55,57-61
+  s_038b15db298319::t_08cb26c192a5b9 76
+  s_038b15db298319::t_ead50d4c0ddf9d 125
+  s_038b15db298319::t_37afdf0d5b7be3 190,192
+src/renderer/src/components/NoteListItem.tsx
+  s_038b15db298319::t_61da06921deaf3 29,39,44,47,52,58
+src/renderer/src/components/Toolbar.tsx
+  s_038b15db298319::t_e67b39482ee2b4 86
+  s_038b15db298319::t_067e09c7310663 106,116
+src/renderer/src/components/NoteList.tsx
+  s_038b15db298319::t_3267cbad9ed8ca 17-18,20
+  s_038b15db298319::t_a60ea23aaca334 19
+src/renderer/src/components/MarkdownEditor.tsx
+  s_038b15db298319::t_c23a713c898c1c 167
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_038b15db298319::t_9774f04671c66a 67
+src/renderer/src/components/SidebarHeader.tsx
+  s_038b15db298319::t_77df73e8434df8 16,19
+src/renderer/index.html
+  s_038b15db298319::t_dd0216c309a665 39
+  s_038b15db298319::t_c714730ba5ee40 23,26,29-32,34,40,42-43,57,60,63-64
+src/renderer/src/components/ErrorBoundary.tsx
+  s_038b15db298319::t_0e37d20259695d 61,66,74-75,77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "24e4ea44cc5b73e935856a9253353bb04b03c764",
+  "prompts": {},
+  "sessions": {
+    "s_038b15db298319": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "db9890d7-17d3-4953-8f37-7434f5331a1c",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
