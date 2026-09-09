@@ -1,0 +1,24 @@
+src/main/index.ts
+  s_68a8f42013f1c2::t_b82e5b5d4c27e9 149-153
+  s_68a8f42013f1c2::t_6e72520ddd9e89 97
+electron-builder.yml
+  s_68a8f42013f1c2::t_826b6531c1c6ee 15
+  s_68a8f42013f1c2::t_45f44c9ad316b9 27
+  s_68a8f42013f1c2::t_5dbdd58a483a64 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "00b41524b3313db4a9f421c3e512d3804de14330",
+  "prompts": {},
+  "sessions": {
+    "s_68a8f42013f1c2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a25362f-68b9-4e88-9499-29d03c4370aa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
