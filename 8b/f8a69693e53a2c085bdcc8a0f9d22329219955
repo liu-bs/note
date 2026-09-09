@@ -1,0 +1,19 @@
+src/main/index.ts
+  s_68a8f42013f1c2::t_8048bdfbd0ec9d 150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8bf8a69693e53a2c085bdcc8a0f9d22329219955",
+  "prompts": {},
+  "sessions": {
+    "s_68a8f42013f1c2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a25362f-68b9-4e88-9499-29d03c4370aa",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
