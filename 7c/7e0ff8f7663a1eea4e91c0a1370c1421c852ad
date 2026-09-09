@@ -1,0 +1,95 @@
+src/renderer/src/components/Toolbar.tsx
+  s_a96748e396ad7f::t_5b550b3cd7a93b 84
+src/renderer/src/components/WindowControls.tsx
+  s_a96748e396ad7f::t_6ec9bf74b8a815 7
+  s_a96748e396ad7f::t_1b9513cd2517c2 21-22
+  s_a96748e396ad7f::t_924412abadaca8 34-42,52-60,65-73,83-100
+src/main/lib/index.ts
+  s_a96748e396ad7f::t_c590eca321bfa3 40-41
+  s_a96748e396ad7f::t_ae6b7216e61cc2 8
+  s_a96748e396ad7f::t_41ac97ecbe36c4 82,93-96
+  s_a96748e396ad7f::t_0ee701781d6ef9 117
+  s_a96748e396ad7f::t_8fe7bfc015355d 159-163
+  s_a96748e396ad7f::t_bb3795d6520381 116,185
+  s_a96748e396ad7f::t_365911667dc3d7 115,157-158,183-184
+src/renderer/src/components/MarkdownEditor.tsx
+  s_a96748e396ad7f::t_51f9dbee5deb94 99
+  s_a96748e396ad7f::t_f3a17e612fdcaa 119
+  s_a96748e396ad7f::t_eddfe3c078d3c4 117
+  s_a96748e396ad7f::t_cdb323cf4b960d 136
+electron.vite.config.ts
+  s_a96748e396ad7f::t_eebbfba1498e12 5-7,11,16,24
+src/renderer/src/index.css
+  s_a96748e396ad7f::t_2fd78b0eabd0b3 8
+src/renderer/src/main.tsx
+  s_a96748e396ad7f::t_f5a640e0943c32 13
+src/renderer/src/components/AppLayout.tsx
+  s_a96748e396ad7f::t_82244d5879003c 41
+  s_a96748e396ad7f::t_70c943eeb77b03 6
+  s_a96748e396ad7f::t_e14e36288ed6ad 14
+  s_a96748e396ad7f::t_340c068f4fa88e 27
+src/renderer/src/components/Button/ActionButton.tsx
+  s_a96748e396ad7f::t_384d3e76680fb2 17
+  s_a96748e396ad7f::t_57acbf37739c25 7
+src/shared/constant.ts
+  s_a96748e396ad7f::t_4902af891f41a3 9-11
+src/preload/index.d.ts
+  s_a96748e396ad7f::t_b27fd6452beede 12-13
+src/preload/index.ts
+  s_a96748e396ad7f::t_f0d655019a340e 14-16
+src/renderer/src/types/hooks.ts
+  s_a96748e396ad7f::t_723dacaa92da09 7-9,30-52
+  s_a96748e396ad7f::t_888c6651e946aa 53
+src/renderer/src/hooks/useMarkdownEditorState.ts
+  s_a96748e396ad7f::t_5123c655e64428 56-57,76-77,79,83
+  s_a96748e396ad7f::t_3347dad931848b 74-75,78,81-82,85
+  s_a96748e396ad7f::t_ce7d45ec196ff9 42
+  s_a96748e396ad7f::t_4405f47d332667 80,84
+  s_a96748e396ad7f::t_818cb46bdf25be 43
+  s_a96748e396ad7f::t_4d41ce68865ba3 5,7
+  s_a96748e396ad7f::t_c75b4e757097ad 86
+src/renderer/src/App.tsx
+  s_a96748e396ad7f::t_ba019dca37fa1b 84
+  s_a96748e396ad7f::t_1aa9de9356b03c 22,37-41,43,45
+package.json
+  s_a96748e396ad7f::t_1c15bc43833c50 14
+src/renderer/src/components/NoteList.tsx
+  s_a96748e396ad7f::t_a93e967d27f621 30
+  s_a96748e396ad7f::t_8d23771b3aadf4 16
+  s_a96748e396ad7f::t_f16f1a70eefe78 10
+src/renderer/src/components/FloatingNoteTitle.tsx
+  s_a96748e396ad7f::t_778cc4ddc193c1 49
+  s_a96748e396ad7f::t_00b2917efaf856 8
+src/renderer/src/components/SidebarHeader.tsx
+  s_a96748e396ad7f::t_62a30727141f04 9
+  s_a96748e396ad7f::t_3a49c1328f22be 16
+  s_a96748e396ad7f::t_d20d95c82b2137 15
+src/renderer/src/types/store.ts
+  s_a96748e396ad7f::t_5a81298228ae90 22-23,47-48
+src/renderer/src/store/index.ts
+  s_a96748e396ad7f::t_4c497ecb33e3a5 157,167
+  s_a96748e396ad7f::t_68c712e5ffb13f 7
+  s_a96748e396ad7f::t_7dbd07c8be7781 122
+  s_a96748e396ad7f::t_40aa1136f10e5d 274-275,282-299
+  s_a96748e396ad7f::t_fec4804ecd5092 41-42,50-51,56,276-281
+src/renderer/src/components/ErrorBoundary.tsx
+  s_a96748e396ad7f::t_28db1e800a867b 59
+src/renderer/src/components/NoteListItem.tsx
+  s_a96748e396ad7f::t_c45a67863ff37c 28-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7c7e0ff8f7663a1eea4e91c0a1370c1421c852ad",
+  "prompts": {},
+  "sessions": {
+    "s_a96748e396ad7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d35aac8-34e9-47d1-91ad-97b2ca7ca04a",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
