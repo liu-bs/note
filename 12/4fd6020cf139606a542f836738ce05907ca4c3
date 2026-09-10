@@ -1,0 +1,38 @@
+src/main/lib/sanitize.ts
+  s_bb47f77a56d928::t_287108c0f729f2 1-27
+package.json
+  s_bb47f77a56d928::t_def9dee94ec156 10
+src/main/lib/index.ts
+  s_bb47f77a56d928::t_f0a380e3de2020 28
+  s_bb47f77a56d928::t_888c1362546a9d 27
+src/main/lib/self-check.ts
+  s_bb47f77a56d928::t_86dee817e796db 7
+  s_bb47f77a56d928::t_924189e87ae5cd 1-6,9-26,32-34
+  s_bb47f77a56d928::t_47d8c1ab5e8a76 27-31
+  s_bb47f77a56d928::t_0981e646aebe51 8
+src/renderer/src/components/Toolbar.tsx
+  s_bb47f77a56d928::t_2a7742284970c1 7
+  s_bb47f77a56d928::t_efe79856722549 30-31
+src/renderer/src/hooks/useMarkdownEditorState.ts
+  s_bb47f77a56d928::t_6a0f05b13d2e54 8
+src/renderer/src/types/index.ts
+  s_bb47f77a56d928::t_fed9b9c9475847 3,5-6,8-119
+.gitignore
+  s_bb47f77a56d928::t_4ad227cbdf0993 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "124fd6020cf139606a542f836738ce05907ca4c3",
+  "prompts": {},
+  "sessions": {
+    "s_bb47f77a56d928": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d1d7f3bc-f4d2-4ad2-8fb6-c2195aa5b62e",
+        "model": "glm-5.2"
+      },
+      "human_author": "卜二 <5442923+lhfp@user.noreply.gitee.com>"
+    }
+  }
+}
